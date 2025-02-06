@@ -101,11 +101,5 @@ public class ProfilePageTest {
             .inputPassword(user.getPassword())
             .clickLoginButton();
   }
-
-
-  //  @Test
-   // @DisplayName("выход по кнопке «Выйти» в личном кабинете")
-    //public void testConstructorUserLogin() {
-
 }
 
