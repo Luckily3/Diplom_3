@@ -1,5 +1,5 @@
-# Diplom_2
-Diplom Unit Tests https://stellarburgers.nomoreparties.site
+# Diplom_3
+Diplom UI Tests https://stellarburgers.nomoreparties.site
 
 ## Технологии проекта:
 
